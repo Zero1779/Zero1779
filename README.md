@@ -1,70 +1,72 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zero1779/Collect-Free/main/apps/WallPaper%20Collect.png" alt="Collect" width="100%">
+# Fala, eu sou o Zero 👋
 
-<br><br>
-
-# Zero — Collect Optimization
-
-**Otimização real para Windows. Sem placebo, sem enrolação.**
-
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HGgpgHnZ6q)
-[![GitHub](https://img.shields.io/badge/Collect--Free-Open%20Source-blueviolet?style=for-the-badge&logo=github)](https://github.com/Zero1779/Collect-Free)
+**Desenvolvedor e gamer — construindo ferramentas que resolvem problemas reais.**
 
 </div>
 
 ---
 
-## O que é o Collect
+Comecei a otimizar PC por necessidade. Não tinha dinheiro pra upgrade, então aprendi a extrair o máximo do hardware que tinha. Virou obsessão, virou código, virou produto.
 
-Scripts e executáveis de otimização para Windows 10/11 focados em **reduzir latência, aumentar FPS e limpar o sistema** — para quem joga de verdade.
-
-Três versões para cada tipo de hardware:
-
-| Produto | Hardware | Formato |
-|---|---|---|
-| **Collect Free** | Qualquer PC | Script aberto — [Download gratuito](https://github.com/Zero1779/Collect-Free) |
-| **Collect Pro** | PC atuais | Executável compilado |
-| **Collect WeakPC Pro** | PC antigos | Executável compilado |
+Hoje desenvolvo o **Collect Tweak** e ferramentas para comunidades.
 
 ---
 
-## O que o Collect faz
+## O que estou construindo
+
+**[Collect Tweak](https://github.com/Zero1779/Collect-Free)** — otimização para Windows focada em gaming
 
 ```
-✔ MSI Mode automático        ✔ IRQ Affinity Pinning
-✔ Timer Resolution 1ms       ✔ C-States desativados
-✔ GPU detection dedicada     ✔ Pagefile calibrado por RAM
-✔ Prefetch/SysMain off SSD   ✔ Windows Update pausado
-✔ TCP/IP otimizado           ✔ Bloatware removido
-✔ Backup de registry         ✔ Restore Point automático
+Collect Free    → gratuito, open source, qualquer PC
+Collect Pro     → kernel-level, IRQ Affinity, C-States off
+Collect WeakPC  → hardware legado, conservador e estável
 ```
+
+Sem placebo. Sem enrolação. Só o que funciona de verdade.
 
 ---
 
-## Começar agora
-
-**Collect Free — gratuito e open source:**
+**[Bot Zero](https://github.com/Zero1779/Bot-Zero)** — bot oficial da comunidade Zerinhox33
 
 ```
-1. github.com/Zero1779/Collect-Free
-2. Baixar → clicar com botão direito no .bat → Executar como administrador
-3. Pressionar A para aplicar tudo
-4. Reiniciar o PC
+Moderação e tickets       → controle total do servidor
+Sistema de níveis         → engajamento e ranking
+Economia                  → moeda e recompensas
+Sorteios                  → integrado ao sistema de pontos
+Notificações automáticas  → Twitch, YouTube e X em tempo real
 ```
+
+Desenvolvido em JavaScript — chegando em breve ao público.
+
+---
+
+## Linguagens
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+## Onde me encontrar
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-zerinhox33-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zerinhox33)
+[![Twitch](https://img.shields.io/badge/Twitch-zerinhox33-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zerinhox33)
+[![Twitter/X](https://img.shields.io/badge/X-Zerinhox33-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zerinhox33)
+[![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HGgpgHnZ6q)
+
+</div>
 
 ---
 
 <div align="center">
-
-**Dúvidas, suporte ou comunidade:**
-
-### 🔗 [discord.gg/HGgpgHnZ6q](https://discord.gg/HGgpgHnZ6q)
-
-<br>
-
-<sub>Windows 10 / 11 · PowerShell · x64</sub>
-
+<sub>Windows · Gaming · Open Source</sub>
 </div>
