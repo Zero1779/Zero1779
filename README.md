@@ -16,7 +16,7 @@ Hoje desenvolvo o **Collect Tweak** e ferramentas para comunidades.
 
 ## O que estou construindo
 
-**[Collect Tweak](https://github.com/Zero1779/Collect-Free)** — otimização para Windows focada em gaming
+**[Collect Tweak](https://github.com/Zerinhox33/Collect-Free)** — otimização para Windows focada em gaming
 
 ```
 Collect Free    → gratuito, open source, qualquer PC
@@ -28,7 +28,7 @@ Sem placebo. Sem enrolação. Só o que funciona de verdade.
 
 ---
 
-**[Bot Zero](https://github.com/Zero1779/Bot-Zero)** — bot oficial da comunidade Zerinhox33
+**[Bot Zero](https://github.com/Zerinhox33/Bot-Zero)** — bot oficial da comunidade Zerinhox33
 
 ```
 Moderação e tickets       → controle total do servidor
